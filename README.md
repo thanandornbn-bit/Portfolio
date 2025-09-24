@@ -54,7 +54,7 @@
 
 ## 🌱 Currently Learning
 
-<div align="center">
+<div align="center" fornt-color="white">
 
 ```mermaid
 mindmap
