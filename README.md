@@ -51,17 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanandornboonchot&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanandornboonchot&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🌱 Currently Learning
 
@@ -169,7 +158,5 @@ const thanandorn = {
   
   **Thanks for visiting my profile!**  
   *Feel free to connect, collaborate, or just say hi! 🚀*
-  
-  [![Profile views](https://visitcount.itsvg.in/api?id=thanandornboonchot&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
