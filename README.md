@@ -117,41 +117,6 @@ mindmap
 
 ---
 
-## 🎯 Goals & Aspirations
-
-```javascript
-const thanandorn = {
-    name: "Thanandorn Boonchot",
-    currentRole: "Undergraduate Student",
-    location: "Thailand",
-    education: "College Student",
-    traits: ["Curious", "Friendly", "Good Communicator", "Adaptable"],
-    goals: [
-        "Become a skilled Software Engineer",
-        "Master Full-Stack Development",
-        "Build applications that solve real problems",
-        "Contribute to meaningful projects"
-    ],
-    techStack: {
-        languages: ["Java", "JavaScript", "C", "C++", "Python"],
-        frontend: ["HTML", "CSS", "React"],
-        backend: ["Spring Boot", "Spring MVC"],
-        database: ["MySQL"],
-        currentlyLearning: ["Advanced Spring Ecosystem", "Modern React", "Database Optimization"]
-    },
-    contact: {
-        facebook: "thanandorn.boonchot.2024",
-        instagram: "t.b06_7",
-        line: "btzaza143",
-        phone: "063-580-3516"
-    },
-    askMeAbout: ["Web Development", "Java", "Spring Framework", "React", "Database Design"],
-    funFact: "I'm passionate about creating technology solutions that make a real impact! 🚀"
-};
-```
-
----
-
 <div align="center">
   
   ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
