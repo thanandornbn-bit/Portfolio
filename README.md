@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-> *"Passionate about creating innovative solutions that bridge technology with real-world impact"*
+> *"I'm an undergraduate student passionate about technology and software development. With a foundation in both backend and frontend, I enjoy building efficient, scalable, and user-friendly applications. I’m eager to keep learning new tools and frameworks to grow as a full-stack developer and create solutions that make a real impact"*
 
-🎓 **Undergraduate Student** passionate about technology and software development  
-🌟 **Aspiring Software Engineer** with full-stack development expertise  
-💡 **Problem Solver** who enjoys building efficient and scalable applications  
-🤝 **Team Player** with curious, friendly, and adaptable personality  
-🚀 **Tech Enthusiast** eager to learn new tools and frameworks  
+🎓 Status: College student (undergraduate)
+
+🤝 Traits: Curious, creative thinker, Friendly , good communicator, adaptable
+
+🚀 Aspiring: Software Engineer / Full-Stack Developer 
 
 ---
 
